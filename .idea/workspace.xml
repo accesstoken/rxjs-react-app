@@ -1,8 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="420ba5c2-caa2-428e-8bc1-47a962ea160f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/massoud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FirstPerson.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PersonSwitcher.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SecondPerson.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/ChatStore.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/ChatState.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Message.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YXT9sTgey3ggvUsqC9rbqHKQuF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="420ba5c2-caa2-428e-8bc1-47a962ea160f" name="Default Changelist" comment="" />
+      <created>1583087790173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583087790173</updated>
+      <workItem from="1583087791480" duration="11267000" />
+      <workItem from="1583105382351" duration="1535000" />
+      <workItem from="1583107059711" duration="3522000" />
+      <workItem from="1583197279048" duration="964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="303" y="33" key="CommitChangelistDialog2" timestamp="1583097160086">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="303" y="33" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1583097160086" />
+    <state width="1920" height="218" key="GridCell.Tab.0.bottom" timestamp="1583198459452">
+      <screen x="-3840" y="-240" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="218" key="GridCell.Tab.0.bottom/-1920.-217.1920.1057/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583198459452" />
+    <state width="1920" height="218" key="GridCell.Tab.0.bottom/-1920.-217.1920.986/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583197683468" />
+    <state width="1920" height="218" key="GridCell.Tab.0.bottom/-1920.-240.1920.1080/-3840.-240.1920.1080/0.0.1440.900@-3840.-240.1920.1080" timestamp="1583197240814" />
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1583093671502" />
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1583103143564" />
+    <state width="1440" height="218" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1583107056557" />
+    <state width="1440" height="218" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583167322667" />
+    <state width="1920" height="218" key="GridCell.Tab.0.center" timestamp="1583198459450">
+      <screen x="-3840" y="-240" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="218" key="GridCell.Tab.0.center/-1920.-217.1920.1057/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583198459450" />
+    <state width="1920" height="218" key="GridCell.Tab.0.center/-1920.-217.1920.986/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583197683465" />
+    <state width="1920" height="218" key="GridCell.Tab.0.center/-1920.-240.1920.1080/-3840.-240.1920.1080/0.0.1440.900@-3840.-240.1920.1080" timestamp="1583197240812" />
+    <state width="1440" height="217" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1583093671501" />
+    <state width="1440" height="217" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1583103143563" />
+    <state width="1440" height="218" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1583107056556" />
+    <state width="1440" height="218" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583167322666" />
+    <state width="1920" height="218" key="GridCell.Tab.0.left" timestamp="1583198459449">
+      <screen x="-3840" y="-240" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="218" key="GridCell.Tab.0.left/-1920.-217.1920.1057/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583198459448" />
+    <state width="1920" height="218" key="GridCell.Tab.0.left/-1920.-217.1920.986/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583197683463" />
+    <state width="1920" height="218" key="GridCell.Tab.0.left/-1920.-240.1920.1080/-3840.-240.1920.1080/0.0.1440.900@-3840.-240.1920.1080" timestamp="1583197240811" />
+    <state width="1440" height="217" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1583093671499" />
+    <state width="1440" height="217" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1583103143563" />
+    <state width="1440" height="218" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1583107056556" />
+    <state width="1440" height="218" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583167322666" />
+    <state width="1920" height="218" key="GridCell.Tab.0.right" timestamp="1583198459451">
+      <screen x="-3840" y="-240" width="1920" height="1080" />
+    </state>
+    <state width="1920" height="218" key="GridCell.Tab.0.right/-1920.-217.1920.1057/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583198459451" />
+    <state width="1920" height="218" key="GridCell.Tab.0.right/-1920.-217.1920.986/-3840.-240.1920.1080/0.23.1440.877@-3840.-240.1920.1080" timestamp="1583197683466" />
+    <state width="1920" height="218" key="GridCell.Tab.0.right/-1920.-240.1920.1080/-3840.-240.1920.1080/0.0.1440.900@-3840.-240.1920.1080" timestamp="1583197240813" />
+    <state width="1440" height="217" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1583093671501" />
+    <state width="1440" height="217" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1583103143564" />
+    <state width="1440" height="218" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1583107056556" />
+    <state width="1440" height="218" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583167322666" />
   </component>
 </project>
